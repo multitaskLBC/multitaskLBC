@@ -1,6 +1,7 @@
 # Fast Detection of Phase Transitions with Multi-Task Learning-by-Confusion
+## Julian Arnold, Frank Schäfer, Niels Lörch
 
-This repository contains a PyTorch implementation for the method introduced in our paper.
+This repository contains a PyTorch implementation for the method introduced in our [paper arxiv:2311.09128](https://arxiv.org/abs/2311.09128) at the [Machine Learning and the Physical Sciences Workshop, NeurIPS 2023](https://neurips.cc/virtual/2023/workshop/66518).
 
 ## Abstract of the article
 
